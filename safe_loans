@@ -1,2 +1,4 @@
+import graphlab as gl
+pip install -U sframe
 import sframe
 loans = sframe.SFrame('lending-club-data.gl/')
