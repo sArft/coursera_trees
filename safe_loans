@@ -1,0 +1,2 @@
+import sframe
+loans = sframe.SFrame('lending-club-data.gl/')
